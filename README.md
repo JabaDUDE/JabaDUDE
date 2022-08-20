@@ -42,6 +42,7 @@
 ---
 
 ### :fire: My Stats :
+<img src='https://www.codewars.com/users/JabaDUDE/badges/small'>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JabaDUDE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
