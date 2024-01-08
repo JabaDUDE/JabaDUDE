@@ -41,7 +41,7 @@
 ---
 ### Progects I'm Proud Of:
 
--Portfolio <br/>
+- **Portfolio** <br/>
   Live Site: [Site](https://jabadude.github.io/portfolio-site/) <br/>
   Source Code: [Code](https://github.com/JabaDUDE/portfolio-site)
 
