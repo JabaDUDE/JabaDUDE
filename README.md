@@ -39,6 +39,11 @@
 </div>
 
 ---
+### Progects I'm Proud Of:
+
+-Portfolio
+  Live Site: [Site](https://jabadude.github.io/portfolio-site/)
+  Source Code: [Code](https://github.com/JabaDUDE/portfolio-site)
 
 ### :fire: My Stats :
 <img src='https://www.codewars.com/users/JabaDUDE/badges/large'>
