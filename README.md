@@ -39,7 +39,7 @@
 </div>
 
 ---
-### Progects I'm Proud Of:
+### 🏆Progects I'm Proud Of:
 
 - **Portfolio** <br/>
   Live Site: [Site](https://jabadude.github.io/portfolio-site/) <br/>
