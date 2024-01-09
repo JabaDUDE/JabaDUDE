@@ -42,8 +42,8 @@
 ### 🏆Progects I'm Proud Of:
 
 - **Portfolio** <br/>
-  Live Site: [Site](https://jabadude.github.io/portfolio-site/) <br/>
-  Source Code: [Code](https://github.com/JabaDUDE/portfolio-site)
+  [Site](https://jabadude.github.io/portfolio-site/) <br/>
+  [Code](https://github.com/JabaDUDE/portfolio-site)
 
 ### :fire: My Stats :
 <img src='https://www.codewars.com/users/JabaDUDE/badges/large'>
