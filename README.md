@@ -45,11 +45,11 @@
   [Site](https://jabadude.github.io/portfolio-site/) <br/>
   [Code](https://github.com/JabaDUDE/portfolio-site)
 
-  - **Personal Site** <br/>
+- **Personal Site** <br/>
   [Site](https://jabadude.github.io/react-personal/) <br/>
   [Code](https://github.com/JabaDUDE/react-personal)
 
-  - **Blackjack** <br/>
+- **Blackjack** <br/>
   [Site](https://jabadude.github.io/blackjack-site/) <br/>
   [Code](https://github.com/JabaDUDE/blackjack-site)
 
