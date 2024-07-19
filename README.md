@@ -25,7 +25,6 @@
 - :student: I’m an eager programmer that enjoys learning new things!
 - 👨‍🏫 I’m always in the process of upskilling and trying new things with code and programming.
 - ⚡In my free time, I like to watch Anime, listen to music, and watch tutorials on YT of other people's projects.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-keast-93a86984/)
 
 ---
 
