@@ -22,9 +22,9 @@
 
 
 - 👋 Hi, I’m @JabaDUDE
-- :student: I’m an eager programmer that enjoys learning new things!
+- :student: I’m an eager programmer that enjoys learning new things! Currently, I'm trying to learn Piano.
 - 👨‍🏫 I’m always in the process of upskilling and trying new things with code and programming.
-- ⚡In my free time, I like to watch Anime, listen to music, and watch tutorials on YT of other people's projects.
+- ⚡In my free time, I like to watch Anime, listen to music, binge watching Youtube, and meditating.
 
 ---
 
@@ -51,6 +51,10 @@
 - **Blackjack** <br/>
   [Site](https://jabadude.github.io/blackjack-site/) <br/>
   [Code](https://github.com/JabaDUDE/blackjack-site)
+
+  - **Stoic Quote Generator** <br/>
+  [Site](stoic-quote-generator-five.vercel.app) <br/>
+  [Code](https://github.com/JabaDUDE/react-quote-generator)
 
 ### :fire: My Stats :
 <img src='https://www.codewars.com/users/JabaDUDE/badges/large'>
